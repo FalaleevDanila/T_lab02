@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danila/CLionProjects/Tsisa/lab2/includes/display.h
+vector
+-
+
+/home/danila/CLionProjects/Tsisa/lab2/includes/function.h
+cmath
+-
+
+/home/danila/CLionProjects/Tsisa/lab2/sourses/display.cpp
+iostream
+-
+../includes/display.h
+/home/danila/CLionProjects/Tsisa/lab2/includes/display.h
+../includes/function.h
+/home/danila/CLionProjects/Tsisa/lab2/includes/function.h
+iomanip
+-
+

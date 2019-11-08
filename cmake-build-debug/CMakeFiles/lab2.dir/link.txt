@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -g   CMakeFiles/lab2.dir/main.cpp.o CMakeFiles/lab2.dir/sourses/function.cpp.o CMakeFiles/lab2.dir/sourses/randomMethod.cpp.o CMakeFiles/lab2.dir/sourses/display.cpp.o  -o lab2 
